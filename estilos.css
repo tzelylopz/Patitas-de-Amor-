@@ -1,0 +1,38 @@
+#contenedor{width: 90%;  border: 3px solid #99ffff; margin-right: auto; margin-left: auto;}
+#encabezado {width: 100%; height: 100px; background-color: #ffe6ff; color:#8c1aff; text-align: center; font-size: 80px; font-style: "Cooper Black";}
+#cuerpo {width: 100%;height:100% ; background-color: pink; color: #ffffff;} 
+#pie {width: 100%; height: 50px; background-color:#ffcccc; color: #3333cc; clear: both; text-align: center; font-style: "Cooper Black";}
+#nav {width: 100%; height: 50px; background-color: #ffffcc; color:#4d79ff; font-size: 20px;} 
+.superior {float: left; width: 100%; height: 55px; background-color: #ffccff; color: black; border: 2px solid purple; text-align: center; font-size: 25px}
+.slider{height: 700px; width: 100%; text-align: center; font-family: "Cooper Black"; font-size: 35px}  
+.inferior{width: 24.76%; height: 200px; background-color: #ffb3ff; color: #ffffff; border: 2px solid purple; float: left;}
+.inferiorp{width: 33%; height: 400px; background-color: #ffb3ff; color: #ffffff; border: 2px solid purple; float: left;}
+.inferiori{width: 33.08%; height: 200px; background-color: #ffb3ff; color: #ffffff; border: 2px solid purple; float: left;}
+.inferiorpe{width: 33%; height: 20px; background-color: #ffb3ff; color: black; border: 2px solid purple; float: left; text-align: center;font-family: "Bookman Old Style"}
+.inferiorpet{width: 24.76%; height: 20px; background-color: #ffb3ff; color: black; border: 2px solid purple; float: left; text-align: center; font-family: "Bookman Old Style"; font-size: 17px;}
+.desc{width: 33%; height: 20px; background-color: #ffb3ff; color: black; border: 2px solid purple;text-align: center;}
+h1{ text-align: center; color: black;}
+h2{ text-align: center;color: black; }
+h3{ text-align: center;color: black; }
+.tit{ text-align: center;color: #ffffcc; font-size: 50px; }
+img {width: 100%; height: 400px;}
+/* unvisited link */
+a:link {color:  #ff3399;}
+
+/* visited link */
+a:visited {color:   #ff3399;}
+
+/* mouse over link */
+a:hover {color:  #33ccff;}
+
+/* selected link */
+a:active {color:  #ccb3ff;}
+.perro{float: left; width: 50%; height: 700px;}
+.form{margin-right: : auto;color: black;}
+		table {border: 3px solid; margin-left: auto; margin-right: auto;border-radius: 8px; width: 450px; background-color: #99ffff; font-family: Century}
+		label {font-family: Century}
+        th {font-size: 25px;}
+        input { background-color:#e6ccff;border: 2px solid#b566ff;border-radius:10px;box-shadow: 2px 2px 5px #999; font-family: Century; font-size: 15px}
+        input[type=submit] {border: 2px solid#00cc00;border-radius:10px;box-shadow: 2px 2px 5px #999;font-size: 15px; font-family:Century; color: black; background-color: #b3ffb3}
+        select { background-color:#e6ccff;border: 2px solid#b566ff;border-radius:10px;box-shadow: 2px 2px 5px #999; font-family: Century}
+
